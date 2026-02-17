@@ -161,4 +161,4 @@ const About = () => {
   );
 };
 
-export default Ab
+export default About;
