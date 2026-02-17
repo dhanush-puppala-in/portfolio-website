@@ -13,7 +13,7 @@ const education = [
     degree: 'Bachelor of Technology',
     field: 'Computer Science and Engineering',
     duration: 'Aug 2023 - Present',
-    grade: 'CGPA: 6.45',
+    grade: 'CGPA: 8.05',
     icon: GraduationCap,
     color: '#00F0FF',
     highlights: [
