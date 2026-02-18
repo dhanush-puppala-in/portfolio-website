@@ -142,7 +142,7 @@ const Hero = () => {
               ref={subtitleRef}
               className="mt-6 text-lg md:text-xl text-gray-400 max-w-2xl mx-auto lg:mx-0"
             >
-              Computer Science Engineer | Data Analyst | Full-Stack Developer
+              Computer Science Engineer | Data Analyst | JAVA Full-Stack Developer
             </p>
 
             {/* CTA Buttons */}
